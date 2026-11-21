@@ -1,0 +1,56 @@
+body {
+    background-image: url(doctor-doom-artwork-5120x2880-28143.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(163, 191, 36);
+}
+
+nav {
+    text-align: center;
+    background-color: black;
+    background-blend-mode:color-burn;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+h2 {
+    color: rgb(39, 224, 15);
+}
+
+p {
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+li{
+    color:whitesmoke;
+
+}
+
+h3{
+    color:rgb(39, 224, 15);
+}
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+footer {
+    text-align: center;
+    background-color: rgb(4, 67, 23);
+    color: white;
+    padding: 10px;
+}
